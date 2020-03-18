@@ -25,6 +25,7 @@ date_format = "Jan 2006"
   date_start = "June 2019"
   date_end = "August 2019"
   description = """
+  asdf
   """
 
 [[experience]]
@@ -34,6 +35,8 @@ date_format = "Jan 2006"
   location = "Easton, Pennsylvania"
   date_start = "June 2018"
   date_end = "July 2018"
-  description = """"""
+  description = """
+  asdf
+  """
 
 +++
