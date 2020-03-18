@@ -27,7 +27,7 @@ interests:
 education:
   courses:
   - course: Budapest Semesters in Mathematics
-    institution: Eötvös Loránd University, Alfréd Rényi Institute of Mathematics 
+    institution: Eötvös Loránd University, Alfréd Rényi Institute of Mathematics
     year: 2019
   - course: BA in Computer Science, Mathematics
     institution: Carleton College
@@ -57,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "sauerbergn@carleton.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -66,6 +66,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Nelson Bighetti is an undergraduate at Carleton College. His research interests lie in the intersection of theoretical CS and economics and include mechanism design, computational social choice, and algorithmic fairness. He is also interested in algorithms for fundamental problems—especially online, approximation, randomized, and graph algorithms.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
