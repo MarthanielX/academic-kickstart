@@ -20,9 +20,9 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Undergraduate Researcher"
   company = "Montana State University CS REU"
-  company_url = "https://www.bobcatsoftwarefactory.com/#intro"
+  company_url = "www.bobcatsoftwarefactory.com/#intro"
   location = "Bozeman, Montana"
-  date_start = ""2019-06-01"
+  date_start = "2019-06-01"
   date_end = ""
   description = """
   graph algorithms
@@ -31,12 +31,13 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Undergraduate Researcher"
   company = "Lafayette College Math REU"
-  company_url = "https://math.lafayette.edu/opportunities/reu/"
+  company_url = "www.math.lafayette.edu/opportunities/reu/"
   location = "Easton, Pennsylvania"
-  date_start = ""2018-06-01"
-  date_end = ""2018-07-01"
+  date_start = "2018-06-01"
+  date_end = "2018-07-01"
   description = """
   graph theory
   """
+
 
 +++
