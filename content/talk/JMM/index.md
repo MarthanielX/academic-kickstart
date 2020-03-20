@@ -5,14 +5,14 @@ event_url: http://jointmathematicsmeetings.org/meetings/national/jmm2019/2217_in
 
 location: Baltimore, MD
 
-summary: A talk given at the JMM about research done at the Lafayette College Math REU.
+summary: Joint Mathematics Meetings 2019
 abstract: "A properly colored path is a path in which no two consecutive edges have the same color. A properly connected coloring of a graph is one in which there exists a properly colored path between every pair of vertices. Given a graph G with a properly connected coloring, the proper distance between any two vertices is the length of a shortest properly colored path between them. Furthermore, the proper diameter of G is the largest proper distance between any pair of vertices in G. Since the proper diameter of G is a function of its coloring, we can refer to the maximum proper diameter of G, that is, the maximum value of the proper diameter across all properly connected colorings of G.
 If G has n vertices, a natural upper bound for its maximum proper diameter is n − 1 but this value is not attainable for all graphs, such as graphs without a Hamiltonian path. We introduce a new family of graphs, Tao graphs, and we show that a 2-connected graph on n vertices with a properly connected 2-coloring has a maximum proper diameter of n − 1 if and only if the graph is a Tao graph."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2019-01-18T15:30:00Z"
-date_end: 2019-01-18T16:00:00Z"
+#date_end: 2019-01-18T16:00:00Z"
 #all_day: false
 
 # Schedule page publish date (NOT talk date).
