@@ -18,7 +18,7 @@ organizations:
   url: "https://www.carleton.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests .
+bio: Nathaniel Sauerberg is an undergraduate Computer Science major at Carleton College.
 
 interests:
 - Algorithm Design
