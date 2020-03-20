@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: Maximum proper diameter of 2-connected graphs
 event: Joint Mathematics Meetings 2019
 event_url: http://jointmathematicsmeetings.org/meetings/national/jmm2019/2217_intro
 
